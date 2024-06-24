@@ -10,7 +10,7 @@ Backend Developer and Network Administrator
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/petr-jurásek-423a92315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petr-jurásek-423a92315)
 [![Printables](https://img.shields.io/badge/Printables-FA6831?style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@Screedy_229738)
 
 <!--
