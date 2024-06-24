@@ -8,8 +8,10 @@ Backend Developer and Network Administrator
 * 🚀  I'm currently working on [MeteoOS](http://github.com/Screedy/MeteoOS) which is my Bc. thesis project.
 * 🧠  I'm learning fun stuff for the ESP32 wifi board on Flipper Zero
 
+<!--
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MightyScreedy) 
+-->
 
 # 💻 Tech Stack:
 ### I write texts and documentation in:
