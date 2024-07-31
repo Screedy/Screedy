@@ -5,8 +5,8 @@ Backend Developer and Network Administrator
 -------------------------------------------
 
 * 🌍  I'm based in Czech Republic
-* 🚀  I'm currently working on [MeteoOS](http://github.com/Screedy/MeteoOS) which is my Bc. thesis project.
-* 🧠  I'm learning fun stuff for the ESP32 wifi board on Flipper Zero
+* 🚀  I'm currently working on perfecting my home server.
+<!-- * 🧠  I'm learning fun stuff for the ESP32 wifi board on Flipper Zero -->
 
 
 ## 🌐 Socials:
