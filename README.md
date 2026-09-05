@@ -24,7 +24,7 @@ A two-node Proxmox VE cluster with VLAN-segmented networking, zero-trust externa
 | **Identity** | Authentik SSO · split-horizon DNS via Technitium |
 | **Services** | 25+ self-hosted apps across isolated VLANs |
 
-Full architecture, VLAN map, firewall rules, and engineering decisions at **[portfolio.jurasek.cc](https://portfolio.jurasek.cc)**
+Full architecture, VLAN map, firewall rules, and engineering decisions at **[portfolio.jurasek.cc]([https://portfolio.jurasek.cc](https://portfolio.jurasek.cc/en/infrastructure/))**
 
 ---
 
