@@ -19,12 +19,10 @@ A two-node Proxmox VE cluster with VLAN-segmented networking, zero-trust externa
 | **Compute** | 2-node Proxmox VE cluster · Proxmox Backup Server · Raspberry Pi quorum device |
 | **Storage** | TrueNAS SCALE over NFS/SMB |
 | **Networking** | UniFi · 6 VLANs · default-deny firewall policy |
-| **Ingress** | Traefik v3 · Cloudflare Tunnel · wildcard TLS via DNS-01 · 0 open WAN ports† |
+| **Ingress** | Traefik v3 · Cloudflare Tunnel · wildcard TLS via DNS-01 |
 | **Observability** | Prometheus · Grafana · Wazuh SIEM · Beszel |
 | **Identity** | Authentik SSO · split-horizon DNS via Technitium |
 | **Services** | 25+ self-hosted apps across isolated VLANs |
-
-*† except Plex (32400) and TeamSpeak 6 (9987) which are port-forwarded by design*
 
 Full architecture, VLAN map, firewall rules, and engineering decisions at **[portfolio.jurasek.cc](https://portfolio.jurasek.cc)**
 
