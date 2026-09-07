@@ -2,7 +2,7 @@
 
 MSc student in Applied Computer Science at Palacký University in Olomouc. My background is in software development, but the work I find most compelling sits at the boundary between software and infrastructure — the layer where reliability, security, and operational discipline actually get enforced.
 
-🌍 Czech Republic &nbsp;·&nbsp; 📬 petr@jurasek.cc &nbsp;·&nbsp; 🔗 **[portfolio.jurasek.cc](https://portfolio.jurasek.cc)**
+🌍 Czech Republic &nbsp;·&nbsp; 📬 petr@jurasek.cc &nbsp;·&nbsp; 🔗 **[portfolio.jurasek.cc](https://portfolio.jurasek.cc/en/)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petr-jurásek-423a92315)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.jurasek.cc)
